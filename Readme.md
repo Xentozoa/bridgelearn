@@ -21,13 +21,14 @@ BridgeLearn is a next-generation learning platform that revolutionizes how aspir
 
 1. **Project Setup:** Install dependencies by running npm install in the project's root directory.  
 2. **Configure:** Create a .env.local file and add your API keys.  
-   NEXT\_PUBLIC\_FIREBASE\_API\_KEY="..."  
-   NEXT\_PUBLIC\_FIREBASE\_AUTH\_DOMAIN="..."  
-   NEXT\_PUBLIC\_FIREBASE\_PROJECT\_ID="..."  
-   NEXT\_PUBLIC\_FIREBASE\_STORAGE\_BUCKET="..."  
-   NEXT\_PUBLIC\_FIREBASE\_MESSAGING\_SENDER\_ID="..."  
-   NEXT\_PUBLIC\_FIREBASE\_APP\_ID="..."  
-   NEXT\_PUBLIC\_GEMINI\_API\_KEY="..."  
-   NEXT\_PUBLIC\_JUDGE0\_API\_KEY="..."
+*NEXT_PUBLIC_FIREBASE_API_KEY*="..."  
+*NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN*="..."  
+*NEXT_PUBLIC_FIREBASE_PROJECT_ID*="..."  
+*NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET*="..."  
+*NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID*="..."  
+*NEXT_PUBLIC_FIREBASE_APP_ID*="..."  
+*NEXT_PUBLIC_GEMINI_API_KEY*="..."  
+*NEXT_PUBLIC_JUDGE0_API_KEY*="..."  
+
 
 3. **Run:** Start the development server with npm run dev.
